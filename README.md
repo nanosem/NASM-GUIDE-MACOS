@@ -11,7 +11,10 @@ Now install nasm via homebrew:
 brew install nasm
 ```
 
-That's it. Now lets do our first assembly.
+That's it. 
+___
+
+# Now lets do our first assembly.
 
 Create file helloWorld.asm by running:
 ```
