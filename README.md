@@ -12,7 +12,6 @@ brew install nasm
 ```
 
 That's it. 
-___
 
 # Now lets do our first assembly.
 
